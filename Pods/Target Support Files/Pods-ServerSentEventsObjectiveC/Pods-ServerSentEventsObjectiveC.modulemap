@@ -1,0 +1,6 @@
+framework module Pods_ServerSentEventsObjectiveC {
+  umbrella header "Pods-ServerSentEventsObjectiveC-umbrella.h"
+
+  export *
+  module * { export * }
+}

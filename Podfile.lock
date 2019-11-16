@@ -1,0 +1,16 @@
+PODS:
+  - EventSource (1.0.4)
+
+DEPENDENCIES:
+  - EventSource
+
+SPEC REPOS:
+  trunk:
+    - EventSource
+
+SPEC CHECKSUMS:
+  EventSource: f7a143f7d87592a4adf2a8545bdb10701b5acf0e
+
+PODFILE CHECKSUM: 0169c55e2dc9ba71f63b73297769d328e85359fc
+
+COCOAPODS: 1.8.4
